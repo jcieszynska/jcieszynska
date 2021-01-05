@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px">
+My name is Joanna Cieszyńska and I'm a student of IT and Econometrics, specializing in IT Applications in Business at the University of Gdańsk, Poland. Currently working at State Street as a IT Administrator. You can find me on [LinkedIn](https://www.linkedin.com/in/joannacieszynska/) and [Behance](https://www.behance.net/joannacieszyska)
 
+[![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=jcieszynska&count_private=true&show_icons=true&hide=stars,prs,issues&theme=synthwave)](https://github.com/jcieszynska/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcieszynska&theme=synthwave)](https://github.com/jcieszynska/github-readme-stats)
 <!--
 **jcieszynska/jcieszynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/jcieszynska/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcieszynska&count_private=true&show_icons=true&hide=stars,prs,issues" />
+</a>
+<a href="https://github.com/jcieszynska/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcieszynska&layout=compact" />
+</a>
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
