@@ -16,10 +16,10 @@ Apart from coding, I'm also interested in UX/UI Design. You can see my projects 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jcieszynska/jcieszynska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcieszynska&hide=html,typescript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcieszynska&hide=html,typescript&theme=vue" />
 </a>
 <a href="https://github.com/jcieszynska/jcieszynska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcieszynska&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joanna's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcieszynska&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Joanna's GitHub Stats" />
 </a>
 
 
