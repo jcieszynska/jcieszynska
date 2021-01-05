@@ -6,11 +6,14 @@ My name is Joanna Cieszyńska and I'm a student of IT and Econometrics, speciali
 Apart from coding, I'm also interested in UX/UI Design. You can see my projects here on [Behance][1] and some of my graphic designs on [Instagram][2]
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![](https://img.shields.io/badge/Code-C_%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/Tools-Adobe_XD-informational?style=for-the-badge&logo=adobe-xd&logoColor=white&color=FF26BE)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=41b883)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Code-C_%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Tools-Adobe_XD-informational?style=for-the-badge&logo=adobe-xd&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=41b883)
 
 
 ## &#x1f4c8; GitHub Stats
