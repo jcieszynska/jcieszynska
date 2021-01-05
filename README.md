@@ -10,7 +10,7 @@ Apart from coding, I'm also interested in UX/UI Design. You can see my projects 
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/Code-C_%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Tools-Adobe_XD-informational?style=for-the-badge&logo=adobe-xd&logoColor=white&color=FF26BE)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=FF26BE)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E)
 
 
 ## &#x1f4c8; GitHub Stats
