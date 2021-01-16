@@ -47,7 +47,7 @@ Check out my repos ⬇️
 
 <!-- links to your social media accounts -->
 
-[1]: https://behance.com/joannacieszynska
+[1]: https://behance.net/joannacieszynska
 [2]: https://www.instagram.com/yoanna_atelier/
 [3]: https://www.linkedin.com/in/joannacieszynska/
 
