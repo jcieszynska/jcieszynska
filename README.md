@@ -1,66 +1,39 @@
-# Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px">
-My name is Joanna Cieszyńska and I'm a student of IT and Econometrics, specializing in IT Applications in Business at the University of Gdańsk, Poland. Currently working at State Street as a IT Administrator. You can find me on [LinkedIn](https://www.linkedin.com/in/joannacieszynska/).
+# Joanna Cieszyńska
 
-## &#x270d; UX/UI Design
+**Senior product designer with a computer science degree.** Based in Gdańsk, Poland.
 
-Apart from coding, I'm also interested in UX/UI Design. You can see my projects here on [Behance][1] and some of my graphic designs on [Instagram][2]
+I design B2B products that people use all day at work, where every saved second adds up. Four years on one logistics product, and 0→1 work in hospitality, humanitarian aid and manufacturing.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=black&color=41b883)
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Code-C_%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Tools-Adobe_XD-informational?style=for-the-badge&logo=adobe-xd&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Tools-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=41b883)
+[Portfolio](https://joannacieszynska.com) · [LinkedIn](https://www.linkedin.com/in/joannacieszynska/) · [Behance](https://behance.net/joannacieszynska)
 
+## Design, from the inside out
 
-## &#x1f4c8; GitHub Stats
+I studied IT and Econometrics at the University of Gdańsk and learned how software is built before I designed it for a living. I don't write code anymore, but I still read a product from the data model up: what the system stores, what the constraints are, what the team can ship this quarter.
 
-<a href="https://github.com/jcieszynska/jcieszynska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcieszynska&hide=html,typescript&theme=vue" />
-</a>
-<a href="https://github.com/jcieszynska/jcieszynska">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcieszynska&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Joanna's GitHub Stats" />
-</a>
+In practice:
 
+- **I speak the developers' language.** I can follow the data model, the API and the technical trade-offs, so design decisions get made with the people who build them.
+- **I write the handoff developers want to read.** Edge cases, empty states and error copy included, so the first build is already the second iteration.
+- **I use AI as a daily design tool.** Custom Claude skills for the repetitive parts of the work: handoffs, audits, UX writing, prototypes.
+- **I name the number before designing.** If we can't say what should change, we're not ready to draw.
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
+## Selected work
 
-<!-- links to social media icons -->
+| Project | Domain | Outcome |
+| --- | --- | --- |
+| **TMS ecosystem** · 2022 – now | Logistics · web and mobile | Replaced the Excel a road-freight desk ran on. 300+ hours saved per employee a year. |
+| **Client portal** · 2026 | Logistics · web | Customers phoned for every status check. Research decided what they should see. |
+| **Restaurant point of sale** · 2023 – 2026 | Hospitality · iPad | A 1990s desktop POS rebuilt for touch and right-to-left reading. Support calls down 80%. |
+| **AccessTrack** · 2022 – 2023 | Humanitarian aid · web and offline Android | Aid payments handed out where there's no signal, so the devices verify each other. |
 
-<!-- icons with padding -->
+Full case studies at [joannacieszynska.com](https://joannacieszynska.com).
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## Toolbox
 
-<!-- icons without padding -->
+**Design** — Figma, design systems, prototyping, UX research, user testing, UX writing, accessibility
 
-[1.2]: https://raw.githubusercontent.com/jcieszynska/jcieszynska/main/behance.png (behance icon)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+**AI** — Claude, custom skills, AI-assisted design and research
 
+## About the repos below
 
-<!-- links to your social media accounts -->
-
-[1]: https://behance.net/joannacieszynska
-[2]: https://www.instagram.com/yoanna_atelier/
-[3]: https://www.linkedin.com/in/joannacieszynska/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!--
-**jcieszynska/jcieszynska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+They're coursework from my computer science degree (2020 – 2021). I keep them public because they're where the "not afraid of technical stuff" part started.
