@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Screens are for people.">
-</picture>
-
 # Hi, I’m Joanna
 
 I’m a product designer from Gdańsk, Poland. I design software that people use all day at work, like a dispatcher judging an offer or a cashier taking orders at rush hour.
