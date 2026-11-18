@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="300+ hours saved per employee a year. 80% fewer support calls after a POS rebuild. 4 years on one logistics product.">
+  <rect y="0" width="1200" height="3" fill="#161615"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="0" y="150" font-size="128" font-weight="600" letter-spacing="-4.5" fill="#161615">300+</text>
+    <text x="2" y="204" font-size="34" fill="#6e6d68">hours saved per</text>
+    <text x="2" y="246" font-size="34" fill="#6e6d68">employee a year</text>
+    <rect x="380" y="36" width="1" height="214" fill="#dcdad3"/>
+    <text x="408" y="150" font-size="128" font-weight="600" letter-spacing="-4.5" fill="#161615">80%</text>
+    <text x="410" y="204" font-size="34" fill="#6e6d68">fewer support calls</text>
+    <text x="410" y="246" font-size="34" fill="#6e6d68">after a POS rebuild</text>
+    <rect x="788" y="36" width="1" height="214" fill="#dcdad3"/>
+    <text x="816" y="150" font-size="128" font-weight="600" letter-spacing="-4.5" fill="#161615">4</text>
+    <text x="818" y="204" font-size="34" fill="#6e6d68">years on one</text>
+    <text x="818" y="246" font-size="34" fill="#6e6d68">logistics product</text>
+  </g>
+</svg>
