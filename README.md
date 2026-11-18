@@ -1,5 +1,7 @@
 # Hi, I’m Joanna
 
+[Portfolio](https://joannacieszynska.com) · [LinkedIn](https://www.linkedin.com/in/joannacieszynska/) · [Behance](https://behance.net/joannacieszynska)
+
 I’m a product designer from Gdańsk, Poland. I design software that people use all day at work, like a dispatcher judging an offer or a cashier taking orders at rush hour.
 
 I studied computer science before I got into design, so I started on the other side of the screen. I don’t write code anymore, but I’m still not afraid of the technical stuff. I like to know what the system stores and what is hard to build, because then the conversation with developers is much easier.
